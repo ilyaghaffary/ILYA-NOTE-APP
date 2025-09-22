@@ -9,6 +9,13 @@
   <img src="https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/welcome_coding.gif" alt="Animated Welcome" width="450"/>
 </div>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=5yAUN4fvSHc">
+    <img src="https://img.youtube.com/vi/5yAUN4fvSHc/maxresdefault.jpg" alt="Video Introduction of ILYA-NOTE-APP" width="450"/>
+  </a>
+  <h1>To-Do List: Smart Organization for Your Life</h1>
+  <p>Manage and remind tasks, lists, notes. Add, edit, delete, and complete. Supports Persian/English, with music and much more!</p>
+</div>
 ---
 
 ## Key Features
@@ -65,8 +72,8 @@ This app is not only suitable for personal use 👤 and managing daily shopping 
 Contribute to the future improvement and development of the app by financially supporting ❤️‍🩹 the developer (Ilya Ghaffary) via **ZarinPal 💳** or **Bitcoin ₿**.
 - **Euro Donation:** [https://pay.ypaylink.com/personal-link/886/3ca205b8ef2ee1a6c606e071d4e9f95d11c7a6b2](https://pay.ypaylink.com/personal-link/886/3ca205b8ef2ee1a6c606e071d4e9f95d11c7a6b2) 💳
 - **Bitcoin Address:** `1FbJ2rRNVqqhL3vXPueHXvu4xJTrJkT6J3` ₿
-- **Rial Donation (Donito):** [https://donito.me/ilya_ghaffary](https://donito.me/ilya_ghaffary) 
-- **Rial Donation (ZarinPal):** [https://zarinp.al/ilya_ghaffary](https://zarinp.al/ilya_ghaffary) 
+- **Rial Donation (Donito):** [https://donito.me/ilya_ghaffary](https://donito.me/ilya_ghaffary)
+- **Rial Donation (ZarinPal):** [https://zarinp.al/ilya_ghaffary](https://zarinp.al/ilya_ghaffary)
 
 ---
 
